@@ -6,7 +6,7 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
+--       Developers: @iamrapfarsi & @alfroshotak      --
 --     Support: @Skneos,  @iicc1 & @serx666     --
 --                                              --
 --------------------------------------------------
