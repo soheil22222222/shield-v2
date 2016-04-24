@@ -17,13 +17,13 @@ local function enable_channel(receiver, to_id)
 	end
 
 	if _config.disabled_channels[receiver] == nil then
-		return lang_text(to_id, 'botOn')..'í ½'
+		return lang_text(to_id, 'botOn')..'ğŸ”“'
 	end
 	
 	_config.disabled_channels[receiver] = false
 
 	save_config()
-	return lang_text(to_id, 'botOn')..' ğŸ˜'
+	return lang_text(to_id, 'botOn')..'ğŸ”“'
 end
 
 local function disable_channel(receiver, to_id)
