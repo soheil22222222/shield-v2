@@ -66,7 +66,7 @@ local function run(msg, matches)
 			return disable_channel(receiver, msg.to.id)
 		end
 	else
-		return '🚫 '..lang_text(msg.to.id, 'require_sudo')
+		return '🚫 '..lang_text(msg.to.id, 'هشدار:این دستورفقط برای سودو هامی باشد���🚫🚫')
 	end
 end
 
