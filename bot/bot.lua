@@ -246,6 +246,7 @@ function create_config( )
     "plugins",
     "rules",
     "settings",
+    "owners",
     "spam",
     "version",
     },
